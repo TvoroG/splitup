@@ -1,1 +1,1 @@
-<a href="http://tvorog.github.io/splitup/"><h2>tvorog.github.io/splitup</h2></a>
+<h2><a href="http://tvorog.github.io/splitup/">tvorog.github.io/splitup</a></h2>
